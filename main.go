@@ -92,7 +92,6 @@ func main() {
 			time.Sleep(10 * time.Second)
 			os.Exit(1)
 		}
-
 		os.Exit(0)
 	}
 }
